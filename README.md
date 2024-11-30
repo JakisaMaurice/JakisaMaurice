@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on html&css projects
 - 📫 How to reach me: jakisamaurice@gmail.com | +256750302070
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+
 
 <!---
 JakisaMaurice/JakisaMaurice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
